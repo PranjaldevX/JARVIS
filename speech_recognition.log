@@ -1,0 +1,429 @@
+2025-06-07 10:00:41,823 - INFO - Loaded InputLanguage: en
+2025-06-07 10:00:41,824 - INFO - HTML file created at C:\Users\pranj\Desktop\JARVIS\Data\Voice.html
+2025-06-07 10:00:41,824 - INFO - ====== WebDriver manager ======
+2025-06-07 10:00:44,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:00:44,647 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:00:44,949 - INFO - Driver [C:\Users\pranj\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-07 10:00:46,108 - INFO - WebDriver initialized successfully
+2025-06-07 10:00:46,109 - INFO - Starting speech recognition...
+2025-06-07 10:00:46,256 - INFO - Speech recognition started
+2025-06-07 10:00:50,548 - INFO - Final text detected: Error: aborted
+2025-06-07 10:00:50,590 - INFO - Recognized speech: Error: aborted.
+2025-06-07 10:00:51,591 - INFO - Starting speech recognition...
+2025-06-07 10:00:51,698 - INFO - Speech recognition started
+2025-06-07 10:00:54,309 - INFO - Final text detected: Error: aborted
+2025-06-07 10:00:54,362 - INFO - Recognized speech: Error: aborted.
+2025-06-07 10:00:55,363 - INFO - Starting speech recognition...
+2025-06-07 10:00:55,516 - INFO - Speech recognition started
+2025-06-07 10:01:25,522 - WARNING - Speech recognition timeout reached
+2025-06-07 10:01:25,619 - INFO - No speech detected
+2025-06-07 10:01:26,620 - INFO - Starting speech recognition...
+2025-06-07 10:01:26,843 - INFO - Speech recognition started
+2025-06-07 10:01:35,547 - INFO - Final text detected: hello
+2025-06-07 10:01:35,620 - INFO - Recognized speech: Hello.
+2025-06-07 10:01:36,622 - INFO - Starting speech recognition...
+2025-06-07 10:01:36,804 - INFO - Speech recognition started
+2025-06-07 10:01:45,431 - INFO - Final text detected: go from here
+2025-06-07 10:01:45,493 - INFO - Recognized speech: Go from here.
+2025-06-07 10:01:46,493 - INFO - Starting speech recognition...
+2025-06-07 10:01:46,705 - INFO - Speech recognition started
+2025-06-07 10:02:16,723 - WARNING - Speech recognition timeout reached
+2025-06-07 10:02:16,872 - INFO - No speech detected
+2025-06-07 10:02:17,874 - INFO - Starting speech recognition...
+2025-06-07 10:02:18,096 - INFO - Speech recognition started
+2025-06-07 10:02:28,298 - INFO - Final text detected: Error: no-speech
+2025-06-07 10:02:28,393 - INFO - Recognized speech: Error: no-speech.
+2025-06-07 10:02:29,394 - INFO - Starting speech recognition...
+2025-06-07 10:02:29,550 - INFO - Speech recognition started
+2025-06-07 10:06:43,271 - INFO - Loaded InputLanguage: en-US
+2025-06-07 10:06:43,272 - INFO - HTML file created at C:\Users\pranj\Desktop\JARVIS\Data\Voice.html
+2025-06-07 10:06:43,272 - INFO - ====== WebDriver manager ======
+2025-06-07 10:06:46,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:06:46,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:06:47,240 - INFO - Driver [C:\Users\pranj\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-07 10:06:48,406 - INFO - WebDriver initialized successfully
+2025-06-07 10:06:49,979 - INFO - Microphone permission state: None
+2025-06-07 10:06:49,980 - ERROR - Microphone access not granted
+2025-06-07 10:06:49,980 - INFO - No speech detected
+2025-06-07 10:06:51,994 - INFO - Microphone permission state: None
+2025-06-07 10:06:51,994 - ERROR - Microphone access not granted
+2025-06-07 10:06:51,994 - INFO - No speech detected
+2025-06-07 10:06:53,981 - INFO - Microphone permission state: None
+2025-06-07 10:06:53,981 - ERROR - Microphone access not granted
+2025-06-07 10:06:53,982 - INFO - No speech detected
+2025-06-07 10:06:55,803 - INFO - Microphone permission state: None
+2025-06-07 10:06:55,804 - ERROR - Microphone access not granted
+2025-06-07 10:06:55,805 - INFO - No speech detected
+2025-06-07 10:06:57,521 - INFO - Microphone permission state: None
+2025-06-07 10:06:57,522 - ERROR - Microphone access not granted
+2025-06-07 10:06:57,522 - INFO - No speech detected
+2025-06-07 10:06:59,762 - INFO - Microphone permission state: None
+2025-06-07 10:06:59,762 - ERROR - Microphone access not granted
+2025-06-07 10:06:59,763 - INFO - No speech detected
+2025-06-07 10:07:01,428 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:01,431 - ERROR - Microphone access not granted
+2025-06-07 10:07:01,431 - INFO - No speech detected
+2025-06-07 10:07:02,435 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:02,436 - ERROR - Microphone access not granted
+2025-06-07 10:07:02,436 - INFO - No speech detected
+2025-06-07 10:07:03,439 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:03,441 - ERROR - Microphone access not granted
+2025-06-07 10:07:03,442 - INFO - No speech detected
+2025-06-07 10:07:04,445 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:04,447 - ERROR - Microphone access not granted
+2025-06-07 10:07:04,447 - INFO - No speech detected
+2025-06-07 10:07:05,452 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:05,454 - ERROR - Microphone access not granted
+2025-06-07 10:07:05,454 - INFO - No speech detected
+2025-06-07 10:07:06,458 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:06,459 - ERROR - Microphone access not granted
+2025-06-07 10:07:06,459 - INFO - No speech detected
+2025-06-07 10:07:07,465 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:07,466 - ERROR - Microphone access not granted
+2025-06-07 10:07:07,467 - INFO - No speech detected
+2025-06-07 10:07:08,471 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:08,471 - ERROR - Microphone access not granted
+2025-06-07 10:07:08,473 - INFO - No speech detected
+2025-06-07 10:07:09,477 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:09,478 - ERROR - Microphone access not granted
+2025-06-07 10:07:09,479 - INFO - No speech detected
+2025-06-07 10:07:10,481 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:10,485 - ERROR - Microphone access not granted
+2025-06-07 10:07:10,486 - INFO - No speech detected
+2025-06-07 10:07:11,491 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:11,492 - ERROR - Microphone access not granted
+2025-06-07 10:07:11,493 - INFO - No speech detected
+2025-06-07 10:07:12,497 - ERROR - Couldn't check microphone permissions: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x1163763+63299]
+	GetHandleVerifier [0x0x11637a4+63364]
+	(No symbol) [0x0xf91113]
+	(No symbol) [0x0xf6ff69]
+	(No symbol) [0x0x1004fce]
+	(No symbol) [0x0x101f359]
+	(No symbol) [0x0xffe376]
+	(No symbol) [0x0xfcd6e0]
+	(No symbol) [0x0xfce544]
+	GetHandleVerifier [0x0x13be033+2531347]
+	GetHandleVerifier [0x0x13b9332+2511634]
+	GetHandleVerifier [0x0x1189eda+220858]
+	GetHandleVerifier [0x0x117a528+156936]
+	GetHandleVerifier [0x0x1180c5d+183357]
+	GetHandleVerifier [0x0x116b6c8+95912]
+	GetHandleVerifier [0x0x116b870+96336]
+	GetHandleVerifier [0x0x115664a+9770]
+	BaseThreadInitThunk [0x0x75565d49+25]
+	RtlInitializeExceptionChain [0x0x7708d03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7708cfc1+561]
+
+2025-06-07 10:07:12,498 - ERROR - Microphone access not granted
+2025-06-07 10:07:12,499 - INFO - No speech detected
+2025-06-07 10:07:42,952 - INFO - Loaded InputLanguage: en-US
+2025-06-07 10:07:42,953 - INFO - HTML file created at C:\Users\pranj\Desktop\JARVIS\Data\Voice.html
+2025-06-07 10:07:42,954 - INFO - ====== WebDriver manager ======
+2025-06-07 10:07:46,219 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:07:46,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-07 10:07:47,206 - INFO - Driver [C:\Users\pranj\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-07 10:07:48,415 - INFO - WebDriver initialized successfully
+2025-06-07 10:07:50,261 - INFO - Microphone permission state: None
+2025-06-07 10:07:50,261 - ERROR - Microphone access not granted
+2025-06-07 10:07:50,261 - INFO - No speech detected
+2025-06-07 10:07:52,170 - INFO - Microphone permission state: None
+2025-06-07 10:07:52,170 - ERROR - Microphone access not granted
+2025-06-07 10:07:52,171 - INFO - No speech detected
+2025-06-07 10:07:54,023 - INFO - Microphone permission state: None
+2025-06-07 10:07:54,023 - ERROR - Microphone access not granted
+2025-06-07 10:07:54,024 - INFO - No speech detected
+2025-06-07 10:07:55,768 - INFO - Microphone permission state: None
+2025-06-07 10:07:55,768 - ERROR - Microphone access not granted
+2025-06-07 10:07:55,769 - INFO - No speech detected
+2025-06-07 10:07:57,572 - INFO - Microphone permission state: None
+2025-06-07 10:07:57,573 - ERROR - Microphone access not granted
+2025-06-07 10:07:57,574 - INFO - No speech detected
+2025-06-07 10:07:59,845 - INFO - Microphone permission state: None
+2025-06-07 10:07:59,846 - ERROR - Microphone access not granted
+2025-06-07 10:07:59,846 - INFO - No speech detected
+2025-06-07 10:08:02,426 - INFO - Microphone permission state: None
+2025-06-07 10:08:02,427 - ERROR - Microphone access not granted
+2025-06-07 10:08:02,429 - INFO - No speech detected
+2025-06-07 10:08:05,267 - INFO - Microphone permission state: None
+2025-06-07 10:08:05,268 - ERROR - Microphone access not granted
+2025-06-07 10:08:05,268 - INFO - No speech detected
+2025-06-07 10:08:07,687 - INFO - Microphone permission state: None
+2025-06-07 10:08:07,691 - ERROR - Microphone access not granted
+2025-06-07 10:08:07,697 - INFO - No speech detected
+2025-06-07 10:08:10,105 - INFO - Microphone permission state: None
+2025-06-07 10:08:10,105 - ERROR - Microphone access not granted
+2025-06-07 10:08:10,106 - INFO - No speech detected
+2025-06-07 10:08:12,973 - INFO - Microphone permission state: None
+2025-06-07 10:08:12,974 - ERROR - Microphone access not granted
+2025-06-07 10:08:12,974 - INFO - No speech detected
+2025-06-07 10:08:15,622 - INFO - Microphone permission state: None
+2025-06-07 10:08:15,622 - ERROR - Microphone access not granted
+2025-06-07 10:08:15,623 - INFO - No speech detected
